@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="MainFrame.window.position" value="101,27"/>
+  <entry key="MainFrame.window.size" value="728,573"/>
+  <entry key="MainFrame.window.state" value="MAXIMIZED"/>
+  <entry key="WorkbenchPanel.horizontal.divider.location" value="300"/>
+  <entry key="WorkbenchPanel.vertical.divider.location" value="359"/>
+</map>
